@@ -65,7 +65,7 @@ type CustomFormatInfo struct {
 
 type CustomFormat struct {
 	ID   int    `json:"id"`
-	name string `json:"name"`
+	Name string `json:"name"`
 }
 
 type Release struct {
